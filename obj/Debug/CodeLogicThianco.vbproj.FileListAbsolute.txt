@@ -1,0 +1,134 @@
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\obj\Debug\CodeLogicThianco.Resources.resources
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.GenerateResource.cache
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.CoreCompileInputs.cache
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\CodeLogicThianco.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\CodeLogicThianco.pdb
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\CodeLogicThianco.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\Code.Library.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\Code.Logics.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\QRCoder.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Administrator.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Client.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Explorer.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Objects.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Reporter.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Server.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.Images.v19.2.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\Code.Logics.pdb
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Administrator.pdb
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Administrator.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Client.pdb
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Client.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Client.dll.config
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Explorer.pdb
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Explorer.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Objects.pdb
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Objects.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Reporter.pdb
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Reporter.dll.config
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\WXCore.Server.pdb
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.CopyComplete
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\obj\Debug\CodeLogicThianco.dll
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\obj\Debug\CodeLogicThianco.xml
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\obj\Debug\CodeLogicThianco.pdb
+C:\BFO\Bfo4bmi\BFO2020.1-DevVS2019\BizForceOne\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.AssemblyReference.cache
+E:\Working\Company May Hue\BFO2\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.AssemblyReference.cache
+E:\Working\Company May Hue\BFO2\CodeLogicThianco\obj\Debug\CodeLogicThianco.Resources.resources
+E:\Working\Company May Hue\BFO2\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.GenerateResource.cache
+E:\Working\Company May Hue\BFO2\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.CoreCompileInputs.cache
+E:\Working\Company May Hue\BFO2\CodeLogicThianco\obj\Debug\CodeLogicThianco.dll
+E:\Working\Company May Hue\BFO2\CodeLogicThianco\obj\Debug\CodeLogicThianco.xml
+E:\Working\Company May Hue\BFO2\CodeLogicThianco\obj\Debug\CodeLogicThianco.pdb
+E:\Working\Company May Hue\BFO2\Server\Bin\CodeLogicThianco.dll
+E:\Working\Company May Hue\BFO2\Server\Bin\CodeLogicThianco.pdb
+E:\Working\Company May Hue\BFO2\Server\Bin\CodeLogicThianco.xml
+E:\Working\Company May Hue\BFO2\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.CopyComplete
+E:\Working\Company May Hue\BFO solution\Server\Bin\CodeLogicThianco.dll
+E:\Working\Company May Hue\BFO solution\Server\Bin\CodeLogicThianco.pdb
+E:\Working\Company May Hue\BFO solution\Server\Bin\CodeLogicThianco.xml
+E:\Working\Company May Hue\BFO solution\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.AssemblyReference.cache
+E:\Working\Company May Hue\BFO solution\CodeLogicThianco\obj\Debug\CodeLogicThianco.Resources.resources
+E:\Working\Company May Hue\BFO solution\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.GenerateResource.cache
+E:\Working\Company May Hue\BFO solution\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.CoreCompileInputs.cache
+E:\Working\Company May Hue\BFO solution\CodeLogicThianco\obj\Debug\CodeLogicThianco.vbproj.CopyComplete
+E:\Working\Company May Hue\BFO solution\CodeLogicThianco\obj\Debug\CodeLogicThianco.dll
+E:\Working\Company May Hue\BFO solution\CodeLogicThianco\obj\Debug\CodeLogicThianco.xml
+E:\Working\Company May Hue\BFO solution\CodeLogicThianco\obj\Debug\CodeLogicThianco.pdb
